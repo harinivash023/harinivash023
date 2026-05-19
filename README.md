@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Harinivash S</h1>
 
 <h3 align="center">
-AI & ML ENGINEER| COMPETITIVE PROGRAMMER
+AI & ML ENGINEER | COMPETITIVE PROGRAMMER
 </h3>
 
 ---
@@ -15,7 +15,7 @@ AI & ML ENGINEER| COMPETITIVE PROGRAMMER
 <a href="mailto:harinivashsuresh21@gmail.com">harinivashsuresh21@gmail.com</a></li>
 
 <li>📄 Know about my experiences 
-<a href="https://https://drive.google.com/drive/folders/1LcqjMN1Z7MkzNv2dnigDceP7IuIY-jX-?usp=drive_link">Check out my Resume</a></li>
+<a href="https://drive.google.com/drive/folders/1LcqjMN1Z7MkzNv2dnigDceP7IuIY-jX-?usp=drive_link">Check out my Resume</a></li>
 </ul>
 
 ---
