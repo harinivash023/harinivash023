@@ -7,7 +7,7 @@ AI & ML ENGINEER | COMPETITIVE PROGRAMMER
 ---
 
 <ul>
-<li>🌱 I’m currently learning Deep Learning and Transformers </li>
+<li>🌱 I’m currently learning Deep Learning and Transformers</li>
 
 <li>💬 Ask me about AI & ML</li>
 
@@ -35,34 +35,23 @@ height="40" width="40" />
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left">
-
 <img src="https://skillicons.dev/icons?i=cpp,python,ai,mongodb,mysql,postgres,git,github,vscode" />
-
 </p>
 
 ---
 
 # 📊 GitHub Insights
 
-<p align="left">
-
-
+<p align="center">
+  <img src="https://ghchart.rshah.org/harinivash023" alt="GitHub contribution chart" />
 </p>
 
----
-
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=harinivash023&theme=github-compact" />
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=harinivash023&theme=github-compact" />
 </p>
 
----
-
 <p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=harinivash023&theme=tokyonight" />
-
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harinivash023&theme=tokyonight" />
 </p>
 
 ---
@@ -70,7 +59,5 @@ height="40" width="40" />
 # 📘 Leetcode Insights
 
 <p align="center">
-
-<img src="https://leetcard.jacoblin.cool/Harinivash46?theme=dark&font=Karma&ext=contest" />
-
+  <img src="https://leetcard.jacoblin.cool/Harinivash46?theme=dark&font=Karma&ext=contest" />
 </p>
