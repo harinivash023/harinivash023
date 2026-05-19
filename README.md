@@ -36,7 +36,7 @@ height="40" width="40" />
 
 <p align="left">
 
-<img src="https://skillicons.dev/icons?i=cpp,python,ai,ml,dl,mongodb,mysql,postgres,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=cpp,python,AI,ML,mongodb,mysql,postgres,git,github,vscode" />
 
 </p>
 
