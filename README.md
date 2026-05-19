@@ -36,7 +36,7 @@ height="40" width="40" />
 
 <p align="left">
 
-<img src="https://skillicons.dev/icons?i=cpp,python,AI,ML,mongodb,mysql,postgres,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=cpp,python,ai,mongodb,mysql,postgres,git,github,vscode" />
 
 </p>
 
@@ -46,9 +46,6 @@ height="40" width="40" />
 
 <p align="left">
 
-<img src="https://github-readme-stats.vercel.app/api?username=harinivash023&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harinivash023&layout=compact&theme=tokyonight" alt="Top Languages" />
 
 </p>
 
