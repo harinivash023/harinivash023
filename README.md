@@ -1,16 +1,79 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Harinivash S</h1>
 
-<!--
-**harinivash023/harinivash023** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+AI & ML ENGINEER| COMPETITIVE PROGRAMMER
+</h3>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<ul>
+<li>🌱 I’m currently learning Deep Learning and Transformers </li>
+
+<li>💬 Ask me about AI & ML</li>
+
+<li>📫 Reach me at 
+<a href="mailto:harinivashsuresh21@gmail.com">harinivashsuresh21@gmail.com</a></li>
+
+<li>📄 Know about my experiences 
+<a href="https://https://drive.google.com/drive/folders/1LcqjMN1Z7MkzNv2dnigDceP7IuIY-jX-?usp=drive_link">Check out my Resume</a></li>
+</ul>
+
+---
+
+<h3 align="left">Connect with me:</h3>
+
+<p align="left">
+<a href="https://www.linkedin.com/in/harinivash-s-551175292" target="blank">
+<img align="center"
+src="https://skillicons.dev/icons?i=linkedin"
+height="40" width="40" />
+</a>
+</p>
+
+---
+
+<h3 align="left">Languages and Tools:</h3>
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=cpp,python,ai,ml,dl,mongodb,mysql,postgres,git,github,vscode" />
+
+</p>
+
+---
+
+# 📊 GitHub Insights
+
+<p align="left">
+
+<img src="https://github-readme-stats.vercel.app/api?username=harinivash023&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harinivash023&layout=compact&theme=tokyonight" alt="Top Languages" />
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=harinivash023&theme=github-compact" />
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=harinivash023&theme=tokyonight" />
+
+</p>
+
+---
+
+# 📘 Leetcode Insights
+
+<p align="center">
+
+<img src="https://leetcard.jacoblin.cool/Harinivash46?theme=dark&font=Karma&ext=contest" />
+
+</p>
