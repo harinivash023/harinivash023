@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Harinivash S</h1>
 
 <h3 align="center">
-AI & ML ENGINEER | COMPETITIVE PROGRAMMER
+DATA SCIENTIST | COMPETITIVE PROGRAMMER
 </h3>
 
 ---
