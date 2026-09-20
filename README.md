@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Harinivash S</h1>
+<h1 align="center">Hello , I'm Harinivash S</h1>
 
 <h3 align="center">
 DATA SCIENTIST | COMPETITIVE PROGRAMMER
