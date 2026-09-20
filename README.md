@@ -7,9 +7,9 @@ DATA SCIENTIST | COMPETITIVE PROGRAMMER
 ---
 
 <ul>
-<li>🌱 I’m currently learning Deep Learning and Transformers</li>
+<li>🌱 Data Science | Machine Learning | Deep Learning | NLP | Generative AI </li>
 
-<li>💬 Ask me about AI & ML</li>
+<li>💬 Future AI/ML Engineer</li>
 
 <li>📫 Reach me at 
 <a href="mailto:harinivashsuresh21@gmail.com">harinivashsuresh21@gmail.com</a></li>
