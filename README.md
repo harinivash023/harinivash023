@@ -1,14 +1,13 @@
 <h1 align="center">Hello , I'm Harinivash S</h1>
 
 <h3 align="center">
-DATA SCIENTIST | COMPETITIVE PROGRAMMER
+AI/ML Engineer | COMPETITIVE PROGRAMMER
 </h3>
 
 ---
 
 <ul>
 <li>🌱 Data Science | Machine Learning | Deep Learning | NLP | Generative AI & Agentic AI Systems </li>
-
 <li>📫 Reach me at 
 <a href="mailto:harinivashsuresh21@gmail.com">harinivashsuresh21@gmail.com</a></li>
 
