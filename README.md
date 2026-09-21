@@ -15,7 +15,7 @@
 ---
 
 ### 🧭 About Me  
-🚀 Passionate on AI & Data Science and Building Intelligent AI Systems   
+🚀 Passionate on AI & Data Science and Building Intelligent AI Systems.   
 💡 Focused on  AI/ML | Data Science | Generative AI & Agentic AI Systems | RAG.  
 🎯 Currently working on AI Orchestration Frameworks and Autonomous Agents.  
 ⚙️ Learn | UnLearn | ReLearn.
