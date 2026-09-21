@@ -1,60 +1,48 @@
-<h1 align="center">Hello , I'm Harinivash S</h1>
+<!-- ========================= GITHUB PROFILE README ========================= -->
+<!-- Author: Harinivash S | AI/ML Engineer  -->
 
-<h3 align="center">
-AI/ML Engineer | COMPETITIVE PROGRAMMER
-</h3>
-
----
-
-<ul>
-<li>🌱 Data Science | Machine Learning | Deep Learning | NLP | Generative AI & Agentic AI Systems </li>
-<li>📫 Reach me at 
-<a href="mailto:harinivashsuresh21@gmail.com">harinivashsuresh21@gmail.com</a></li>
-
-<li>📄 Know about my experiences 
-<a href="https://drive.google.com/drive/folders/1LcqjMN1Z7MkzNv2dnigDceP7IuIY-jX-?usp=drive_link">Check out my Resume</a></li>
-</ul>
-
----
-
-<h3 align="left">Connect with me:</h3>
-
-<p align="left">
-<a href="https://www.linkedin.com/in/harinivash-s-551175292" target="blank">
-<img align="center"
-src="https://skillicons.dev/icons?i=linkedin"
-height="40" width="40" />
-</a>
-</p>
-
----
-
-<h3 align="left">Languages and Tools:</h3>
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=cpp,python,ai,mongodb,mysql,postgres,git,github,vscode" />
-</p>
-
----
-
-# 📊 GitHub Insights
-
+<h1 align="center"> Hello , I'm Harinivash S</h1>
+<h3 align="center">AI/ML Engineer | Competetive Programmer </h3>
 <p align="center">
-  <img src="https://ghchart.rshah.org/harinivash023" alt="GitHub contribution chart" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&lines=AI+Engineer+and+Data+Scientist;Machine+Learning+Researcher;LLM+and+NLP+Engineer;Deep+Learning" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=harinivash023&theme=github-compact" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harinivash023&theme=tokyonight" />
+  <a href="https://www.linkedin.com/in/harinivash-s-551175292/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:harinivashsuresh21@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
 
-# 📘 Leetcode Insights
+### 🧭 About Me  
+🚀 Passionate **AI & Data Science Engineer** Building Intelligent Systems   
+💡 Focused on ** AI/ML | Data Science | Generative AI & Agentic AI Systems | RAG **.  
+🎯 Currently working on **AI Orchestration Frameworks and Autonomous Agents**.  
+⚙️ Learn | UnLearn | ReLearn.
 
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/Harinivash46?theme=dark&font=Karma&ext=contest" />
-</p>
+---
+
+### 🧩 Tech Stack
+
+```python
+Languages : Python | C++  
+DS/ML/DL Libraries : Numpy | Pandas | MatplotLib | Seaborn | Scikit-Learn | TensorFlow | Keras | Pytorch                                         
+Core Concepts : OOPS | DSA | DBMS
+AI/ML : Data Science | ML | DL | NLP | Computer Vision 
+Generative AI : LLMs | RAG | LangGraph | LangChain              
+DataBases : SQL | SQLite | MongoDB   
+Frontend : React 
+```
+🧠 Featured Projects
+| 🔬 Project                | 💡 Description                                                                        | ⚙️ Stack                      |
+| ------------------------- | ------------------------------------------------------------------------------------- | ----------------------------- |
+| 🗣 **Human Activity Detection System**                | Real-time system for detecting human activities from webcam video using pose estimation and rule-based classification.                     | Python, MediaPipe, OpenCV, NumPy, Streamlit, WebRTC |
+| 🌾 **AI Agentic Video Generation**                   | Automates YouTube video and Shorts creation using AI agents for scripting, image generation, voice synthesis, editing, and captions.   | Python, FastAPI, React.js, LLMs, AI Agents, SQLite, Docker, FFmpeg |
+| 🤖 **AI-Based Self Introduction Feedback System**    | Analyzes self-introductions using speech-to-text and NLP metrics to provide scores and personalized feedback.                           | Python, Flask, NLP, Whisper, Pandas, Sentence Transformers |
+
+
+💻 Coding Profiles
+<p align="center"> <a href="https://leetcode.com/u/Harinivash46/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white"/></a> <a href="https://www.codechef.com/users/harinivash_29"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white"/></a> <a href="https://www.hackerrank.com/profile/harinivashsures1"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/></a> </p> <p align="center"> 🧩 <b>LeetCode:</b> 300+ problems solved (Rating: 1500+) 🍽 <b>CodeChef:</b> 450+ problems (Rating: 1000+) 🧠 <b>HackerRank:</b> 3⭐ in Python & C++ 🏅 <b>SkillRack:</b> 250+ problems solved </p>
+
+🧑‍💻 Connect With Me
+<p align="center"> <a href="https://www.linkedin.com/in/harinivash-s-551175292/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a> <a href="mailto:harinivashsuresh21@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>  </p>
