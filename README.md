@@ -2,7 +2,7 @@
 <!-- Author: Harinivash S | AI/ML Engineer  -->
 
 <h1 align="center"> Hello , I'm Harinivash S</h1>
-<h3 align="center">AI/ML Engineer | Competetive Programmer </h3>
+<h3 align="center">AI/ML Engineer | Competitive Programmer </h3>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&lines=AI+Engineer+and+Data+Scientist;Machine+Learning+Researcher;LLM+and+NLP+Engineer;Deep+Learning" alt="Typing SVG" />
 </p>
