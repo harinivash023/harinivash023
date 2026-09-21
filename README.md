@@ -9,8 +9,6 @@ DATA SCIENTIST | COMPETITIVE PROGRAMMER
 <ul>
 <li>🌱 Data Science | Machine Learning | Deep Learning | NLP | Generative AI & Agentic AI Systems </li>
 
-<li>💬 Future AI/ML Engineer</li>
-
 <li>📫 Reach me at 
 <a href="mailto:harinivashsuresh21@gmail.com">harinivashsuresh21@gmail.com</a></li>
 
