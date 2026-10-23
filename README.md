@@ -37,7 +37,7 @@ Tools              : Git & GitHub | Vs code
 | 🔬 Project                | 💡 Description                                                                        | ⚙️ Stack                      |
 | ------------------------- | ------------------------------------------------------------------------------------- | ----------------------------- |
 | 🤖 **Human Activity Detection System**               | Real-time system for detecting human activities from webcam video using pose estimation and rule-based classification.                     | Python, MediaPipe, OpenCV, NumPy, Streamlit, WebRTC |
-| 🤖 **AI Agentic Video Generation**                   | Automates YouTube video and Shorts creation using AI agents for scripting, image generation, voice synthesis, editing, and captions.   | Python, FastAPI, React.js, LLMs, AI Agents, SQLite, Docker, FFmpeg |
+| 🤖 **RAG Chatbot**                                   | Developed a conversational RAG chatbot using LangChain, Groq, Hugging Face embeddings, and Chroma for document-based question answering.  | Python, LangChain, React.js, JavaScript, FastAPI, Groq, Hugging Face, Chroma, Vite, Pytest |
 | 🤖 **AI-Based Self Introduction Feedback System**    | Analyzes self-introductions using speech-to-text and NLP metrics to provide scores and personalized feedback.                           | Python, Flask, NLP, Whisper, Pandas, Sentence Transformers |
 
 
